@@ -1,1 +1,1 @@
-0x16. C - Simple Shell team project done
+0x16. C - Simple Shell team project
